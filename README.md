@@ -104,6 +104,8 @@ Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 Sev-C (Grace Period: 8 hours, Business Hours)
 
+![image](https://github.com/user-attachments/assets/5f165f17-1c1c-4d92-8ca2-b930bdd2fb61)
+
 
 Configure Help Topics (For when users create a ticket)
 Admin Panel -> Manage -> Help Topics
@@ -112,5 +114,7 @@ Personal Computer Issues
 Equipment Request
 Password Reset
 Other
+
+![image](https://github.com/user-attachments/assets/a6f94032-6380-42dd-8975-c1bc6d72fddd)
 
 
